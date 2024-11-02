@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enutooza.github.io/GOg/sitemap_index.txt
+Sitemap: https://enutooza.github.io/McE/sitemap_index.txt
+Sitemap: https://enutooza.github.io/gth/sitemap_index.txt
+Sitemap: https://enutooza.github.io/vJZ/sitemap_index.txt
